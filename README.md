@@ -13,32 +13,32 @@ Aptus est une plateforme tout-en-un qui aide les candidats à accélérer leur i
 - Intégrer des recommandations basées sur l'intelligence artificielle (matching formation ↔ jobhunter, suggestions d'offres, correction des formulaires ,optimisation de profil et CV)
 - Implémenter des mesures de sécurité avancées (authentification forte, gestion des rôles)
 ## Modules du projet
-    1) Utilisateurs & Accès
+    1. Utilisateurs & Accès
         - S’authentifier (inscription / connexion / déconnexion)
         - Gérer le profil utilisateur (infos, paramètres)
         - Administration de la plateforme (rôles, supervision, gestion globale)
-    2) CV & Analyse IA
+    2. CV & Analyse IA
         - Créer / importer / modifier le CV
         - Analyser le CV (extraction de compétences, points forts)
         - Calculer le matching CV ↔ offre (score de compatibilité, recommandations)
-    3) Offres & Candidatures (Posts & Formulaires)
+    3. Offres & Candidatures (Posts & Formulaires)
         - Publier, modifier et supprimer des offres/posts (côté entreprise)
         - Postuler via formulaires (côté job hunter)
         - Gérer les candidatures (suivi statut, consultation, traitement)
-    4) Formations & Recommandations
+    4. Formations & Recommandations
         - Accéder au catalogue de formations
         - Recommandations de formations (basées sur l’analyse CV / matching)
         - Suivi des formations (progression / complétion si disponible)
-    5) Portfolio & Réalisations
+    5. Portfolio & Réalisations
         - Créer et mettre à jour le portfolio (projets, preuves, liens)
         - Consulter un portfolio (entreprise / recruteur)
         - Valoriser les candidatures via les réalisations (support au recrutement)
 ## ODD visés
-    - ODD 4 : Éducation de qualité
-    - ODD 8 : Travail décent et croissance économique
-    - ODD 9 : Industrie, innovation et infrastructure
-    - ODD 10 : Réduction des inégalités
-    - ODD 17 : Partenariats pour la réalisation des objectifs
+- ODD 4 : Éducation de qualité
+- ODD 8 : Travail décent et croissance économique
+- ODD 9 : Industrie, innovation et infrastructure
+- ODD 10 : Réduction des inégalités
+- ODD 17 : Partenariats pour la réalisation des objectifs
 ## Technologies utilisées
 ### Frontend
 - HTML5
