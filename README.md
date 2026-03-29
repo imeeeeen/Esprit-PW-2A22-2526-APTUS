@@ -46,10 +46,10 @@ Aptus est une plateforme tout-en-un qui aide les candidats à accélérer leur i
 - Consulter un portfolio (entreprise / recruteur)
 - Valoriser les candidatures via les réalisations (support au recrutement)
 ## ODD visés
-- ODD 4 : Éducation de qualité
 - ODD 8 : Travail décent et croissance économique
 - ODD 9 : Industrie, innovation et infrastructure
 - ODD 10 : Réduction des inégalités
+- ODD 12 : Consommation et production responsables
 - ODD 17 : Partenariats pour la réalisation des objectifs
 ## Technologies utilisées
 ### Frontend
