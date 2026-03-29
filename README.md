@@ -1,5 +1,5 @@
 # APTUS
-A job finder Application developed by ARCHIPEL
+Un site web qui peut t'accompagner dans chaque pas de ta carrière developé par ARCHIPELs
 
 ## Table des matières
 - [Présentation du projet](#présentation-du-projet)
