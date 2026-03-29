@@ -45,7 +45,7 @@ Gère la logique métier et la communication entre le Model et la View en PHP : 
 Les personnes suivantes ont contribué à ce projet en ajoutant des fonctionnalités et en améliorant la documentation :
 - [Ons Mestaoui](https://github.com/ons-mestaoui)
 - [Outheila Taamali](https://github.com/outh17)
-- [Imeen Ben Jbara](https://github.com/imeeeeen),[imeen](https://github.com/imen-bj)
+- [Imen Ben Jbara](https://github.com/imeeeeen) , [imeen](https://github.com/imen-bj)
 - Rayen Taiba
 - Med Amine Belloumi
 ## Academic Context
@@ -55,5 +55,5 @@ Les personnes suivantes ont contribué à ce projet en ajoutant des fonctionnali
 [https://github.com/ons-mestaoui/Esprit-PW-2A22-2526-APTUS.git](https://github.com/ons-mestaoui/Esprit-PW-2A22-2526-APTUS.git)
 ```bash 
 git clone https://github.com/ons-mestaoui/Esprit-PW-2A22-2526-APTUS.git
-cd APTUS
+cd Esprit-PW-2A22-2526-APTUS
 
