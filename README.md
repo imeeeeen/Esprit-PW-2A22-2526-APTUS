@@ -14,7 +14,6 @@ Aptus est une plateforme tout-en-un qui aide les candidats à accélérer leur i
 - Implémenter des mesures de sécurité avancées (authentification forte, gestion des rôles)
 ## Modules du projet
 ### 1. Utilisateurs & Accès
-                
 - S’authentifier (inscription / connexion / déconnexion)
 - Gérer le profil utilisateur (infos, paramètres)
 - Administration de la plateforme (rôles, supervision, gestion globale)
@@ -55,13 +54,7 @@ Aptus est une plateforme tout-en-un qui aide les candidats à accélérer leur i
 - Visual Studio Code
 - XAMPP / Apache Server
 ## Architecture
-The application follows a Client–Server Architecture based on the MVC (Model–View–Controller) pattern.
-### Modèle
-Gère les opérations sur la base de données en utilisant MySQL : connexions sécurisées, requêtes préparées, migrations et accès aux tables principales
-### Vue
-Gère l’interface utilisateur avec HTML, CSS et JavaScript 
-### Contrôleur
-Gère la logique métier et la communication entre le Modèle et la Vue en PHP : réception et validation des requêtes, orchestration des actions 
+Notre application suit une architecture Client-Serveur basée sur le modèle MVC (Model-View-Controller).
 ### Flux de travail
 1. L’utilisateur interagit avec l’interface.
 2. Une requête est envoyée au Contrôleur.
@@ -70,11 +63,11 @@ Gère la logique métier et la communication entre le Modèle et la Vue en PHP :
 5. Une réponse est renvoyée à l’utilisateur via la Vue
 ## Membres du groupe
 Les personnes suivantes ont contribué à ce projet en ajoutant des fonctionnalités et en améliorant la documentation :
-- [Ons Mestaoui](https://github.com/ons-mestaoui)
-- [Outheila Taamali](https://github.com/outh17)
-- [Imen Ben Jbara](https://github.com/imeeeeen) , [imeen](https://github.com/imen-bj)
-- Rayen Taiba
-- Med Amine Belloumi
+- [Ons Mestaoui](https://github.com/ons-mestaoui) : Responsable des offres et candidatures
+- [Outheila Taamali](https://github.com/outh17) : Responsable des formations et recommandations
+- [Imen Ben Jbara](https://github.com/imeeeeen) , [imeen](https://github.com/imen-bj) : Responsable des CV et analyse IA
+- Rayen Taiba : Responsable des utilisateurs et accès sécurisé
+- Med Amine Belloumi : Responsable du portfolio et réalisations
 ## Contexte académique
  Developed as part of Web Technologies Project at **Esprit School of Engineering – Tunisia** PW – 2A | 2025–2026
 ## Démarrage
