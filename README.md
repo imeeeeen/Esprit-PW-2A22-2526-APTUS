@@ -1,5 +1,5 @@
 # APTUS
-Un site web qui peut t'accompagner dans chaque pas de ta carrière developé par ARCHIPELs
+Un site web qui peut t'accompagner dans chaque pas de ta carrière developé par ARCHIPEL
 
 ## Table des matières
 - [Présentation du projet](#présentation-du-projet)
