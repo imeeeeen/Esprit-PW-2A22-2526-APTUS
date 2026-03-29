@@ -1,5 +1,17 @@
 # APTUS
 A job finder Application developed by ARCHIPEL
+
+## Table des matières
+- [Présentation du projet](#présentation-du-projet)
+- [Objectifs](#objectifs)
+- [Modules du projet](#modules-du-projet)
+- [ODD visés](#odd-visés)
+- [Technologies utilisées](#technologies-utilisées)
+- [Architecture](#architecture)
+- [Membres du groupe](#membres-du-groupe)
+- [Contexte académique](#contexte-académique)
+- [Démarrage](#démarrage)
+
 ## Présentation du projet 
 Aptus est une plateforme tout-en-un qui aide les candidats à accélérer leur insertion professionnelle en combinant un éditeur de CV optimisé, un moteur de recherche d’offres ciblées et un catalogue de formations pertinentes.
 ## Objectifs
