@@ -65,7 +65,7 @@ Notre application suit une architecture Client-Serveur basée sur le modèle MVC
 Les personnes suivantes ont contribué à ce projet en ajoutant des fonctionnalités et en améliorant la documentation :
 - [Ons Mestaoui](https://github.com/ons-mestaoui) : Responsable des offres et candidatures
 - [Outheila Taamali](https://github.com/outh17) : Responsable des formations et recommandations
-- [Imen Ben Jbara](https://github.com/imeeeeen) , [imeen](https://github.com/imen-bj) : Responsable des CV et analyse IA
+- [Imen Ben Jbara](https://github.com/imeeeeen) : Responsable des CV et analyse IA
 - Rayen Taiba : Responsable des utilisateurs et accès sécurisé
 - [Med Amine Belloumi](https://github.com/AmineBelloumi) : Responsable du portfolio et réalisations
 ## Contexte académique
