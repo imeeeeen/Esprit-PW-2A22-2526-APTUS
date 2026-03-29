@@ -67,7 +67,7 @@ Les personnes suivantes ont contribué à ce projet en ajoutant des fonctionnali
 - [Outheila Taamali](https://github.com/outh17) : Responsable des formations et recommandations
 - [Imen Ben Jbara](https://github.com/imeeeeen) , [imeen](https://github.com/imen-bj) : Responsable des CV et analyse IA
 - Rayen Taiba : Responsable des utilisateurs et accès sécurisé
-- Med Amine Belloumi : Responsable du portfolio et réalisations
+- [Med Amine Belloumi](https://github.com/AmineBelloumi) : Responsable du portfolio et réalisations
 ## Contexte académique
  Developed as part of Web Technologies Project at **Esprit School of Engineering – Tunisia** PW – 2A | 2025–2026
 ## Démarrage
